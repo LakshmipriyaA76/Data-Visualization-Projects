@@ -58,9 +58,9 @@ https://youtu.be/BOSgV2tQG44?si=8di9zQRDhPBvTpgQ
 
 ## Contributing
 
-Lakshmi Priya Armugan
-Narendran Asokan
-Kanchan Devi
-Sachin Ramasubramanian
+- Lakshmi Priya Armugan
+- Narendran Asokan
+- Kanchan Devi
+- Sachin Ramasubramanian
 
 
