@@ -50,7 +50,7 @@ Examining correlation trendlines from 2010 to 2013 provided valuable insights fo
 - Expertise in statistical methods and hypothesis testing.
 - Mastery of Tableau for dynamic data visualization.
 
-## Datavizualation Link
+## Data visualization Link
 https://public.tableau.com/app/profile/lakshmi.priya1127/viz/WordHappinessReport2023/MainDashboard
 
 ## Youtube Link
